@@ -41,7 +41,7 @@
 
 I'm a **Computer Science & Engineering student** interested in building practical applications and exploring modern technologies.
 
-I enjoy working with **software development, AI/ML, data science, full-stack development and Android**.
+I enjoy working with **software development, JAVA, AI/ML, data science, full-stack development and Android**.
 
 My learning approach:
 
