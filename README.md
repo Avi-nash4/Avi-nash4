@@ -16,7 +16,8 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="./avi.png" width="170" height="170" style="border-radius:50%;"/>
+<img src="./svg/avi.png" width="170" height="170"/>
+
 
 <br><br>
 
