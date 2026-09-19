@@ -1,17 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00FF88&height=220&section=header&text=AVINASH%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20AI%2FML%20%7C%20Data%20Science&descAlignY=58&descSize=19&descColor=00FF88"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                       HERO SECTION                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00FF88&height=230&section=header&text=AVINASH%20KUMAR&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20AI%2FML%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=18&descColor=00FF88"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Building+Real-World+Applications;AI+%7C+Machine+Learning+%7C+Data+Science;Turning+Ideas+Into+Working+Software"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         YOUR PHOTO                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="./profile.jpg" width="170" height="170" style="border-radius:50%;"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILD-00FF88?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/LEARN-00FF88?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/CREATE-00FF88?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/IMPROVE-00FF88?style=for-the-badge&labelColor=080808"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%2F%2F+DEVELOPER+MODE;Building+Real-World+Applications;AI+%7C+Machine+Learning+%7C+Data+Science;Turning+Ideas+Into+Working+Software"/>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    IDENTITY BOXES                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/CSE%20STUDENT-00FF88?style=for-the-badge&labelColor=080808&color=00FF88"/>
+<img src="https://img.shields.io/badge/DEVELOPER-00FF88?style=for-the-badge&labelColor=080808&color=00FF88"/>
+<img src="https://img.shields.io/badge/AI%2FML-00FF88?style=for-the-badge&labelColor=080808&color=00FF88"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-00FF88?style=for-the-badge&labelColor=080808&color=00FF88"/>
+<img src="https://img.shields.io/badge/PROJECT%20BUILDER-00FF88?style=for-the-badge&labelColor=080808&color=00FF88"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING...-00FF88?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
@@ -19,50 +46,60 @@
 
 <div align="center">
 
-# `ABOUT ME`
+# `01 // ABOUT ME`
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### 👨‍💻 Hello, I'm Avinash
+<td width="60%" valign="top">
 
-I'm a **Computer Science & Engineering student** passionate about building practical software and exploring modern technologies.
+## 👨‍💻 Hello, I'm Avinash
 
-I enjoy working across:
+I'm a **Computer Science & Engineering student** interested in building practical applications and exploring modern technologies.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Analytics
-* 🌐 Full-Stack Development
-* 📱 Android Development
-* 🧠 Problem Solving & DSA
+I enjoy working with **software development, AI/ML, data science, full-stack development and Android**.
 
-My approach is simple:
+My learning approach:
 
-> **Learn → Build → Debug → Improve**
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+DEBUG
+  ↓
+IMPROVE
+```
+
+> **I don't just learn technology — I build with it.**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ```text
-┌─────────────────────────────┐
-│                             │
-│       AVINASH KUMAR         │
-│                             │
-│  CSE STUDENT                │
-│  DEVELOPER                  │
-│  AI / ML ENTHUSIAST         │
-│  DATA SCIENCE               │
-│                             │
-│  Status: BUILDING...        │
-│                             │
-└─────────────────────────────┘
+┌──────────────────────────────┐
+│                              │
+│      AVINASH KUMAR           │
+│                              │
+│  > developer.exe             │
+│                              │
+│  [●] SYSTEM ONLINE           │
+│  [●] BUILDING PROJECTS       │
+│  [●] LEARNING EVERY DAY      │
+│                              │
+│  LOCATION                    │
+│  INDIA 🇮🇳                   │
+│                              │
+└──────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -70,21 +107,21 @@ My approach is simple:
 
 <div align="center">
 
-# `TECH STACK`
+# `02 // TECH STACK`
 
-### LANGUAGES
+### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,kotlin&theme=dark"/>
 
 <br><br>
 
-### DEVELOPMENT
+### `WEB & APPLICATION DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,androidstudio&theme=dark"/>
 
 <br><br>
 
-### DATA • AI • DATABASE • TOOLS
+### `DATA • AI • DATABASE • TOOLS`
 
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,mysql,firebase,git,github,vscode&theme=dark"/>
 
@@ -94,7 +131,7 @@ My approach is simple:
 
 <div align="center">
 
-# `FEATURED PROJECTS`
+# `03 // FEATURED PROJECTS`
 
 </div>
 
@@ -103,40 +140,40 @@ My approach is simple:
 
 <td width="50%" valign="top">
 
-## 🤖 Interview AI
+## 🤖 INTERVIEW AI
 
 **AI-powered interview platform**
 
 Resume analysis, ATS scoring, interview questions and voice-based interaction.
 
-**Tech**
+<br>
 
 `React` `Node.js` `Express`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Avi-nash4/INTERVIEW-AI">
-<img src="https://img.shields.io/badge/EXPLORE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/>
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080808"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎬 Movie Recommendation
+## 🎬 MOVIE RECOMMENDATION
 
 **Content-based recommendation engine**
 
 Uses TF-IDF and Cosine Similarity to recommend movies based on genre similarity.
 
-**Tech**
+<br>
 
 `Python` `Pandas` `Scikit-learn`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Avi-nash4/MOVIE-RECOMMENDATION-SYSTEM">
-<img src="https://img.shields.io/badge/EXPLORE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/>
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080808"/>
 </a>
 
 </td>
@@ -147,33 +184,33 @@ Uses TF-IDF and Cosine Similarity to recommend movies based on genre similarity.
 
 <td width="50%" valign="top">
 
-## 🏏 IPL Data Analysis
+## 🏏 IPL DATA ANALYSIS
 
 **Exploratory data analysis**
 
-Analyzing IPL teams, players, matches and statistics through data visualization.
-
-**Tech**
-
-`Python` `Pandas` `Matplotlib`
+Analysis of IPL teams, players, matches and statistics through Python visualization.
 
 <br>
 
+`Python` `Pandas` `Matplotlib`
+
+<br><br>
+
 <a href="https://github.com/Avi-nash4/IPL-DATA-ANALSIS">
-<img src="https://img.shields.io/badge/EXPLORE-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/>
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080808"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚢 Titanic Prediction
+## 🚢 TITANIC PREDICTION
 
 **Machine learning classification**
 
 Data cleaning, feature selection and Logistic Regression for survival prediction.
 
-**Tech**
+<br>
 
 `Python` `Pandas` `Scikit-learn`
 
@@ -185,13 +222,13 @@ Data cleaning, feature selection and Logistic Regression for survival prediction
 
 <td width="50%" valign="top">
 
-## 🦠 COVID-19 Analysis
+## 🦠 COVID-19 ANALYSIS
 
 **Data analysis & visualization**
 
 Exploring cases, deaths, recoveries and trends using Python data analysis tools.
 
-**Tech**
+<br>
 
 `Python` `Pandas` `Matplotlib`
 
@@ -199,13 +236,13 @@ Exploring cases, deaths, recoveries and trends using Python data analysis tools.
 
 <td width="50%" valign="top">
 
-## 📱 Citizen Complaint App
+## 📱 CITIZEN COMPLAINT APP
 
 **Android complaint management**
 
-Complaint registration and tracking with Firebase Authentication and Firestore.
+Complaint registration and tracking using Firebase Authentication and Firestore.
 
-**Tech**
+<br>
 
 `Java` `Android` `Firebase`
 
@@ -218,32 +255,24 @@ Complaint registration and tracking with Firebase Authentication and Firestore.
 
 <div align="center">
 
-# `MY DEVELOPMENT LOOP`
-
-<br>
+# `04 // DEVELOPMENT MODE`
 
 ```text
-       ┌──────────┐
-       │  IDEATE  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BUILD   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │   TEST   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  DEBUG   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ IMPROVE  │
-       └────┬─────┘
-            │
-            └──────────────→ BUILD AGAIN
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   [01]  THINK                                            ║
+║          ↓                                               ║
+║   [02]  BUILD                                            ║
+║          ↓                                               ║
+║   [03]  BREAK                                            ║
+║          ↓                                               ║
+║   [04]  DEBUG                                            ║
+║          ↓                                               ║
+║   [05]  LEARN                                            ║
+║          ↓                                               ║
+║   [06]  BUILD BETTER                                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -252,7 +281,7 @@ Complaint registration and tracking with Firebase Authentication and Firestore.
 
 <div align="center">
 
-# `GITHUB ANALYTICS`
+# `05 // GITHUB ANALYTICS`
 
 <br>
 
@@ -270,7 +299,7 @@ Complaint registration and tracking with Firebase Authentication and Firestore.
 
 <div align="center">
 
-# `CONTRIBUTION ACTIVITY`
+# `06 // CONTRIBUTION ACTIVITY`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi-nash4&bg_color=080808&color=FFFFFF&line=00FF88&point=00FF88&area=true&hide_border=true" width="95%"/>
 
@@ -286,17 +315,17 @@ Complaint registration and tracking with Firebase Authentication and Firestore.
 # `CURRENT FOCUS`
 
 ```text
-01  DSA & Problem Solving
+▸ DSA & PROBLEM SOLVING
 
-02  Artificial Intelligence
+▸ ARTIFICIAL INTELLIGENCE
 
-03  Machine Learning
+▸ MACHINE LEARNING
 
-04  Full-Stack Development
+▸ DATA SCIENCE
 
-05  Data Science
+▸ FULL-STACK DEVELOPMENT
 
-06  Backend Technologies
+▸ BACKEND TECHNOLOGIES
 ```
 
 </td>
@@ -314,10 +343,10 @@ SOLVE
   ↓
 COLLABORATE
   ↓
-CREATE IMPACT
+CREATE
 ```
 
-**Goal:** Build stronger fundamentals and turn more ideas into production-quality projects.
+**Goal:** Build stronger fundamentals and turn ideas into useful, portfolio-quality applications.
 
 </td>
 
@@ -328,7 +357,7 @@ CREATE IMPACT
 
 <div align="center">
 
-# `LET'S CONNECT`
+# `07 // CONNECT`
 
 <br>
 
@@ -339,16 +368,16 @@ CREATE IMPACT
 <br><br>
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│        THANKS FOR VISITING MY PROFILE      │
-│                                            │
-│        KEEP BUILDING. KEEP LEARNING.       │
-│                                            │
-╰────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│                                              │
+│       THANKS FOR VISITING MY PROFILE         │
+│                                              │
+│       KEEP BUILDING. KEEP LEARNING.          │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-### `⭐ Explore the repositories`
+### `⭐ EXPLORE THE REPOSITORIES`
 
 <br>
 
