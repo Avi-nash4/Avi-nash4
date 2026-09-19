@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%2F%2F+DEVELOPER+MODE;Building+Real-World+Applications;AI+%7C+Machine+Learning+%7C+Data+Science;Turning+Ideas+Into+Working+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%2F%2F+DEVELOPER+MODE;Building+Real-World+Applications;AI;JAVA;Turning+Ideas+Into+Working+Software"/>
 
 <br><br>
 
