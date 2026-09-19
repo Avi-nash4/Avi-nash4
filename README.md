@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./avi.jpg" width="170" alt="Avinash Kumar"/>
+
 
 <br><br>
 
