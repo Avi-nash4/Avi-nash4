@@ -16,7 +16,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="./profile.jpg" width="170" height="170" style="border-radius:50%;"/>
+<img src="IMG_7715(1).HEIC" width="170" height="170" style="border-radius:50%;"/>
 
 <br><br>
 
