@@ -16,7 +16,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="./svg/avi.png" width="170" height="170"/>
+ <img src="./avi.png" width="170" height="170" style="border-radius:50%;"/>
 
 
 <br><br>
